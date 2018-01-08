@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+  <fontFamily name="Breip">
+    <normal>fonts/Breip/breipfont.ttf</normal>
+    <pdfEncoding>Identity-H</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+  <fontFamily name="Elegance">
+    <normal>fonts/Elegance/elegital.ttf</normal>
+    <bold>fonts/Elegance/elegbold.ttf</bold>
+    <pdfEncoding>Identity-H</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+  <fontFamily name="Liberation Mono">
+    <normal>fonts/LiberationMono/LiberationMono-Regular.ttf</normal>
+    <bold>fonts/LiberationMono/LiberationMono-Bold.ttf</bold>
+    <italic>fonts/LiberationMono/LiberationMono-Italic.ttf</italic>
+    <boldItalic>fonts/LiberationMono/LiberationMono-BoldItalic.ttf</boldItalic>
+    <pdfEncoding>Identity-H</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+  <fontFamily name="Liberation Mono">
+    <normal>fonts/LiberationMono/LiberationMono-Regular.ttf</normal>
+    <bold>fonts/LiberationMono/LiberationMono-Bold.ttf</bold>
+    <italic>fonts/LiberationMono/LiberationMono-Italic.ttf</italic>
+    <boldItalic>fonts/LiberationMono/LiberationMono-BoldItalic.ttf</boldItalic>
+    <pdfEncoding>Identity-H</pdfEncoding>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+  <fontFamily name="M+ 1c">
+    <normal>fonts/MPlusC1/mplus-1c-regular.ttf</normal>
+    <bold>fonts/MPlusC1/mplus-1c-bold.ttf</bold>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+  <fontFamily name="M+ 1m">
+    <normal>fonts/MPlusM1/mplus-1m-regular.ttf</normal>
+    <bold>fonts/MPlusM1/mplus-1m-bold.ttf</bold>
+    <pdfEmbedded>true</pdfEmbedded>
+    <exportFonts>
+    </exportFonts>
+  </fontFamily>
+</fontFamilies>

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fonts
+Bundle-SymbolicName: de.bxservice.report.fonts
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: net.sf.jasperreports.engine;bundle-version="6.3.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
